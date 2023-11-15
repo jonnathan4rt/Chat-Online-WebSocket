@@ -24,10 +24,8 @@ Este proyecto es una aplicación básica de chat en tiempo real desarrollada con
    ```bash
    git clone https://github.com/jonnathan9s/Chat-Online-WebSocket.git
    mvn spring-boot:run
-   Acceder a la Aplicación:
    Abre tu navegador y visita http://localhost:8080
 
-   ## Capturas de Pantalla
 
 ### Pantalla Principal
 [![Pantalla Principal](https://i.postimg.cc/bY69pqBH/1.png)](https://postimg.cc/w3mmkYH7)
