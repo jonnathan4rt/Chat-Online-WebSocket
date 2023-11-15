@@ -29,10 +29,12 @@ Este proyecto es una aplicación básica de chat en tiempo real desarrollada con
 
 ### Pantalla Principal
 [![Pantalla Principal](https://i.postimg.cc/bY69pqBH/1.png)](https://postimg.cc/w3mmkYH7)
+
 *Inicio de sesión*
 
 ### Chat en Acción
 [![Chat en Acción](https://i.postimg.cc/k4YR3gg2/2.png)](https://postimg.cc/LYf8jRfS)
+
 *Aviso de unión al chat*
 
 
@@ -41,6 +43,7 @@ Este proyecto es una aplicación básica de chat en tiempo real desarrollada con
 
 ### Mensajes y Notificaciones
 [![Mensajes y Notificaciones](https://i.postimg.cc/PrWZNh6R/4.png)](https://postimg.cc/rKpzP621)
+
 *Aviso de cuando el usuario abandona el chat*
 
 
